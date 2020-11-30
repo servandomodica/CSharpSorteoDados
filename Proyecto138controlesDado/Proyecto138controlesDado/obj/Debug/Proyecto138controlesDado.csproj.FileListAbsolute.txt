@@ -1,0 +1,11 @@
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto138controlesDado\Proyecto138controlesDado\bin\Debug\Proyecto138controlesDado.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto138controlesDado\Proyecto138controlesDado\bin\Debug\Proyecto138controlesDado.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto138controlesDado\Proyecto138controlesDado\bin\Debug\Proyecto138controlesDado.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto138controlesDado\Proyecto138controlesDado\obj\Debug\Proyecto138controlesDado.Dado.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto138controlesDado\Proyecto138controlesDado\obj\Debug\Proyecto138controlesDado.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto138controlesDado\Proyecto138controlesDado\obj\Debug\Proyecto138controlesDado.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto138controlesDado\Proyecto138controlesDado\obj\Debug\Proyecto138controlesDado.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto138controlesDado\Proyecto138controlesDado\obj\Debug\Proyecto138controlesDado.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto138controlesDado\Proyecto138controlesDado\obj\Debug\Proyecto138controlesDado.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto138controlesDado\Proyecto138controlesDado\obj\Debug\Proyecto138controlesDado.Form1.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto138controlesDado\Proyecto138controlesDado\obj\Debug\Proyecto138controlesDado.csprojAssemblyReference.cache
